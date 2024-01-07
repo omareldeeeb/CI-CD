@@ -11,7 +11,7 @@ Hello,
     - Push it to docker registry and versioned.
     - Deploy on the production server.
 
-The main used technologies are:
+- The main used technologies are:
     - Jenkins: Automation server to execute the CI/CD.
     - Github: As source version control to store the code.
     - Maven: To build the Java application, test the code and generate the report.
